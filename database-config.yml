@@ -1,0 +1,4 @@
+db:
+  url: jdbc:mysql://localhost:3306/userdatadb
+  username: root
+  password: mysql@2020
